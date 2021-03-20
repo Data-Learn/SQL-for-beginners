@@ -55,6 +55,7 @@
 - [**Курс DE-101**](https://datalearn.ru/kurs-po-getting-start-with-data-engineering)
 
 **3.** На сайте появляется страница, на которой будет ссылка на не большой опрос про ваш опыт и интерес к ресурсу. Вам нужно заполнить опрос.
+
 **4.** Когда вы пройдете опрос, на странице по завершения опроса вы увидите ссылку приглашение в наше **Slack** комьюнити. **Slack** это месенджер, вы можете скачаеть его [тут](https://slack.com/intl/en-ca/downloads/) для компьютера или найти версию для телефона; в нем мы будем общаться, задавать вопросы, обсуждать что-либо.
 
 ## Каналы в Slack
@@ -88,4 +89,4 @@
 
 Всем спасибо и до встречи на **курсах** на канале [**Data Learn**](https://www.youtube.com/channel/UCWki7GBUE5lDMJCbn4e1XMg) и в нашем сообществе **Datal Learn** в **Slack**.
 
-Перейти к курсу [**SQL-101**](https://github.com/AnatoliiBalakiriev/SQLforBeginners/blob/main/SQL-101%20Guide.md).
+Перейти к курсу [**SQL-101**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md).

@@ -1,1 +1,1 @@
-# SQLforBeginers
+# SQLforBeginerss

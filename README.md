@@ -44,9 +44,11 @@
 
 ## Как зарегистрироваться на курсы Data Learn
 **1.** На любой курс вы регистрируетесь на сайте [Data Learn](https://datalearn.ru) или прямо на страницах курсов:
+
 **2.** 
 
-   [**Курс SQL-101 (регистрация на сайте будет скоро доступна)**](https://github.com/Data-Learn/sql-101/blob/main/images/temp.png)
+   [**Курс SQL-101 (регистрация на сайте будет скоро доступна)**](https://datalearn.ru)
+   ![img](https://github.com/Data-Learn/sql-101/blob/main/images/temp.png)
    
    [**Курс ML-101**](https://datalearn.ru/kurs-po-ml-ds)
 

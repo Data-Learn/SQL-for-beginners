@@ -47,7 +47,7 @@
 
 **2.** 
 
-- [**Курс SQL-101)**](https://datalearn.ru)
+- [**Курс SQL-101**](https://datalearn.ru)
    ![img](https://github.com/Data-Learn/sql-101/blob/main/images/temp.png)
    
 - [**Курс ML-101**](https://datalearn.ru/kurs-po-ml-ds)

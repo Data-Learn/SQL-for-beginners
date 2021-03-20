@@ -47,12 +47,12 @@
 
 **2.** 
 
-    - [**Курс SQL-101)**](https://datalearn.ru)
+- [**Курс SQL-101)**](https://datalearn.ru)
    ![img](https://github.com/Data-Learn/sql-101/blob/main/images/temp.png)
    
-    - [**Курс ML-101**](https://datalearn.ru/kurs-po-ml-ds)
+- [**Курс ML-101**](https://datalearn.ru/kurs-po-ml-ds)
 
-    - [**Курс DE-101**](https://datalearn.ru/kurs-po-getting-start-with-data-engineering)
+- [**Курс DE-101**](https://datalearn.ru/kurs-po-getting-start-with-data-engineering)
 
 **3.** На сайте появляется страница, на которой будет ссылка на не большой опрос про ваш опыт и интерес к ресурсу. Вам нужно заполнить опрос.
 **4.** Когда вы пройдете опрос, на странице по завершения опроса вы увидите ссылку приглашение в наше **Slack** комьюнити. **Slack** это месенджер, вы можете скачаеть его [тут](https://slack.com/intl/en-ca/downloads/) для компьютера или найти версию для телефона; в нем мы будем общаться, задавать вопросы, обсуждать что-либо.

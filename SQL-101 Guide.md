@@ -9,7 +9,7 @@
 
 [Содержание курса](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Содержание-курса)
 
-[Модуль 01](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/README.md)  ![in process](https://github.com/Data-Learn/sql-101/blob/main/images/in_progress.png)
+[Модуль 01](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/README.md)  ![completed](https://github.com/Data-Learn/SQL-for-beginners/blob/main/images/completed.png)
 
 [Модуль 02](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/README.md)  ![in process](https://github.com/Data-Learn/sql-101/blob/main/images/in_progress.png)
 

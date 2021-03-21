@@ -1,3 +1,5 @@
+[**Ссылка на 1-ый видеоурок на Youtube**](https://youtu.be/ynGJCI6aj0o)
+
 ![img](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%201/images/lesson%201.png)
 
 [**Ссылка на создание Gmail аккаунта**](https://www.google.com/intl/ru/gmail/about/)<br>

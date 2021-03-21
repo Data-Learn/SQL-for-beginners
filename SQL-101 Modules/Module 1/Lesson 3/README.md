@@ -1,3 +1,5 @@
+[**Ссылка на 3-ий видеоурок на Youtube**](https://youtu.be/ZMSJ4dVnkDI)
+
 ![img](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%203/images/lesson%203.png)
 
 [Ссылка на PostgreSQL (Windows installers)](https://www.postgresql.org/download/windows/)

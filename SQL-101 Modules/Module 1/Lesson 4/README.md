@@ -1,3 +1,5 @@
+[**Ссылка на 4-ый видеоурок на Youtube**](https://youtu.be/lDLDt8Kka9g)
+
 ![img](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%204/images/lesson%204.png)
 
 **Ccылки на скачивание используемых готовых sql файлов в видео, которые достаточно открыть в pgAdmin и выполнить:**

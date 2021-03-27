@@ -14,10 +14,6 @@
 
 ![img](https://github.com/Data-Learn/SQL-for-beginners/blob/main/SQL-101%20Modules/Module%202/Lesson%2013/images/INNER%20JOIN%20%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5.gif)
 
-**LEFT JOIN соединение:**
-
-![img](https://github.com/Data-Learn/SQL-for-beginners/blob/main/SQL-101%20Modules/Module%202/Lesson%2013/images/LEFT%20JOIN%20%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5.gif)
-
 **Диаграммы Венна:**
 
 ![img](https://github.com/Data-Learn/SQL-for-beginners/blob/main/SQL-101%20Modules/Module%202/Lesson%2013/images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B%20%D0%92%D0%B5%D0%BD%D0%BD%D0%B0.jpg)

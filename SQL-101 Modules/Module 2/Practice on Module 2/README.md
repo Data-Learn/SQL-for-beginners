@@ -40,7 +40,7 @@
 
 [**Ccылка на скачивание pdf файла с описанием таблиц проекта "Sognify"**](https://github.com/Data-Learn/SQL-for-beginners/blob/main/SQL-101%20Modules/Module%202/Practice%20on%20Module%202/PDF%20%D1%84%D0%B0%D0%B9%D0%BB%D1%8B/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%20Sognify.pdf)
 
-[**Тест Майерс-Бриггс по определению типа личности**](https://www.16personalities.com/ru/test-lichnosti)
+[**Ссылка на тест Майерс-Бриггс по определению типа личности**](https://www.16personalities.com/ru/test-lichnosti)
 
 [**Ссылка на SQL код из практики №2**](https://raw.githubusercontent.com/Data-Learn/SQL-for-beginners/main/SQL-101%20Modules/Module%202/Practice%20on%20Module%202/SQL%20%D1%84%D0%B0%D0%B9%D0%BB%D1%8B/SQL%20%D0%BA%D0%BE%D0%B4%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8%20%E2%84%962.sql)
 

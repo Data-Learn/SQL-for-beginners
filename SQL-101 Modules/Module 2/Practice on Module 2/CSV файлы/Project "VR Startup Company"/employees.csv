@@ -1,0 +1,51 @@
+employee_id,first_name,last_name,location,position,personality,current_project
+1,Shannan,Arlow,MO,Designer,ISTJ,2
+2,Philippe,Fownes,NY,Designer,ENFJ,2
+3,Ambrosi,Dawkes,TX,Designer,ISTP,
+4,Mordy,Mosdall,FL,Developer,ISTP,
+5,Kalie,Yearsley,IL,Developer,ESTJ,2
+6,Winona,Goodanew,MI,Lead,INFJ,
+7,Esma,Kidstone,NC,DBA,ESFP,
+8,Delmore,Ruperti,ID,DBA,ENFJ,
+9,Ora,Singers,NY,Designer,ISTP,
+10,Daphna,Murty,VA,Designer,ESFJ,
+11,Anselm,Rossin,FL,Lead,ISFP,
+12,Hannis,Galea,MA,Lead,ESTJ,3
+13,Edi,Vinau,TX,DBA,INTP,
+14,Mirella,Parram,NJ,Project Manager,ISTJ,6
+15,Mitchel,Guinness,TN,Project Manager,ENTP,
+16,Delphinia,Ferrant,NY,Project Manager,ENFP,5
+17,Ingeborg,Prickett,MN,Project Manager,ENFJ,4
+18,Chrissie,Gricks,FL,Designer,ISTP,
+19,Enrico,Corden,MD,Lead,ISTP,
+20,Tremaine,Reyner,NY,Developer,ENFP,
+21,Elva,Golby,IL,Project Manager,ENTJ,
+22,Worden,Zorro,FL,DBA,ISFP,
+23,Sigismondo,Wimbury,CT,Developer,INTP,
+24,Moina,Astall,NV,DBA,ENFJ,1
+25,Lucine,Leighfield,MA,DBA,ESTJ,
+26,Lezley,Lemarie,FL,Designer,INFP,
+27,Lacy,Escritt,OK,Developer,ISTJ,7
+28,Elwin,Prandy,MO,Project Manager,ENTP,
+29,Adda,Savege,CA,Lead,ENFJ,
+30,Sisile,Fleay,WA,Designer,ESFJ,
+31,Joscelin,Blaszkiewicz,IL,Developer,ISFJ,7
+32,Wally,Derr,FL,DBA,ISFJ,
+33,Ludovika,Elby,ND,Lead,ESTJ,
+34,Andy,Banasevich,MN,DBA,ENFJ,
+35,Hale,Dyott,TX,DBA,ISFP,7
+36,Christi,Muge,MO,Developer,ENFJ,
+37,Sydelle,Hartell,NY,Designer,ISFP,
+38,Rey,Branca,TX,Project Manager,ESFJ,
+39,Edgard,Wilhelmy,GA,Lead,ENTP,
+40,Larine,Talman,GA,Lead,INFJ,7
+41,Mahalia,McCall,MN,Developer,INFJ,
+42,Trey,Garcia,TX,Lead,INTJ,
+43,Dew,Steffan,NC,Lead,ENTP,
+44,Dorisa,Cherrie,PA,Project Manager,ENTJ,5
+45,Berenice,Waycott,NC,Developer,INFJ,
+46,Harriet,Girardini,IA,Project Manager,INFP,
+47,Wendell,Jest,TX,Project Manager,ISFP,
+48,Antons,Bartelli,IN,Designer,ESFP,7
+49,Dode,McGruar,GA,DBA,INTP,
+50,Nanete,Lyes,NE,Project Manager,ESFJ,

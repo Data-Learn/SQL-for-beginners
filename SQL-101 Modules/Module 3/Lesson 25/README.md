@@ -12,4 +12,8 @@
 
 ![img](https://github.com/Data-Learn/SQL-for-beginners/blob/main/SQL-101%20Modules/Module%203/Lesson%2025/images/%D0%92%D1%81%D0%BF%D0%BE%D0%BC%D0%BD%D0%B8%D0%BC%20%D0%B2%D1%81%D1%91!.jpg)
 
+[**Ссылка на официальную документацию SQL Server 2019 на английском языке**](https://docs.microsoft.com/en-us/sql/sql-server/what-s-new-in-sql-server-ver15?view=sql-server-ver15)
+
+[**Ссылка на официальную документацию SQL Server 2019 на русском языке**](https://docs.microsoft.com//ru-ru/sql/sql-server/what-s-new-in-sql-server-ver15?view=sql-server-ver15)
+
 [**Ссылка на SQL код из урока 25**](https://raw.githubusercontent.com/Data-Learn/SQL-for-beginners/main/SQL-101%20Modules/Module%203/Lesson%2025/SQL%20%D1%84%D0%B0%D0%B9%D0%BB%D1%8B/SQL%20%D0%BA%D0%BE%D0%B4%20%D0%B8%D0%B7%20%D1%83%D1%80%D0%BE%D0%BA%D0%B0%2025.sql)

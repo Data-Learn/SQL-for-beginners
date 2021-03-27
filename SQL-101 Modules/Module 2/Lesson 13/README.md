@@ -1,4 +1,4 @@
-[**Ссылка на 13-ый видеоурок на Youtube**]()
+[**Ссылка на 13-ый видеоурок на Youtube**](https://youtu.be/vO0qLi2RjQs)
 
 ![img](https://github.com/Data-Learn/SQL-for-beginners/blob/main/SQL-101%20Modules/Module%202/Lesson%2013/images/lesson%2013.png)
 

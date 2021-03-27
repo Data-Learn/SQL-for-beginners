@@ -1,27 +1,23 @@
 Данный модуль состоит из следующих уроков (переходите по ссылкам):
 
-🔑[Введение перед курсом](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%200%20(Introduction)/README.md)
+🔑[Схема данных и руководство по стилю SQL](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2011/README.md)
 
-🔑[Первое знакомство с базами данных](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%201/README.md)
+🔑[Соединения таблиц, виды соединений, синтаксис](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2012/README.md)
 
-🔑[pgAdmin, SELECT  и арифметические операции](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%202/README.md)
+🔑[Внутреннее соединение (INNER) JOIN](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2013/README.md)
 
-🔑[Установка PostgreSQL с pgAdmin себе на компьютер](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%203/README.md)
+🔑[Внешнее соединение LEFT JOIN](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2014/README.md)
 
-🔑[Выборка данных из таблиц, уникальные значения и комментарии](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%204/README.md)
+🔑[Внешние соединения RIGHT JOIN и FULL JOIN. Первичные (PRIMARY) и внешние (FOREIGN) ключи](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2015/README.md)
 
-🔑[Сортировка данных, форматирование кода и ограничение выборки](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%205/README.md)
+🔑[Перекрестное соединение CROSS JOIN](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2016/README.md)
 
-🔑[Операторы сравнения. Практика](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%206/README.md)
+🔑[Объединение строк с помощью UNION и UNION ALL. Введение в подзапросы](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2017/README.md)
 
-🔑[Фильтрация данных с помощью оператора WHERE, оператор BETWEEN,  логические операторы NOT, AND, OR](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%207/README.md)
+🔑[Операторы EXCEPT и INTERSECT, использование USING вместо ON](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2018/README.md)
 
-🔑[NULL значения и агрегатные функции](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%208/README.md)
+🔑[Использование операторов LIKE и CASE, функции для работы с датой и временем, функции для работы со строками](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2019/README.md)
 
-🔑[Группировка значений с помощью GROUP BY, оператор IN](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%209/README.md)
+🔑[Подзапросы (вложенные запросы) и общие табличные выражения (Common Table Expressions, CTE)](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2020/README.md)
 
-🔑[Фильтрация агрегируемых данных с помощью HAVING и логический порядок обработки инструкций](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%2010/README.md)
-
-🔑[Уровень 1. Практика](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Practice%20on%20Module%201/README.md)
-
-[Уровень 2️⃣:](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/README.md)
+🔑[Уровень 2. Практика](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Practice%20on%20Module%202/README.md)

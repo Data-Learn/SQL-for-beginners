@@ -3,21 +3,24 @@
 # SQL для начинающих (SQL-101)
 ## Вступление
 
-[Введение](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Введение)
+**Заполните, пожалуйста, анкету перед началом курса👐, для всей команды DataLearn важно понимать 🧑‍🎓какая аудитория👩‍🎓 у данного курса**
+[**Ссылка на анкету, нажмите здесь**](https://docs.google.com/forms/d/e/1FAIpQLSfN4wr9ERsDwfi3_6Tg0FQE0IMk2dKIzZzAWLPABvOyZpszxg/viewform?usp=sf_link)
 
-[Для кого этот курс](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Для-кого-этот-курс)
+[**Введение**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Введение)
 
-[Содержание курса](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Содержание-курса)
+[**Для кого этот курс**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Для-кого-этот-курс)
 
-[Модуль 01](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/README.md)  ![completed](https://github.com/Data-Learn/SQL-for-beginners/blob/main/images/completed.png)
+[**Содержание курса**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Содержание-курса)
 
-[Модуль 02](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/README.md)  ![completed](https://github.com/Data-Learn/SQL-for-beginners/blob/main/images/completed.png)
+[**Модуль 01**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/README.md)  ![completed](https://github.com/Data-Learn/SQL-for-beginners/blob/main/images/completed.png)
 
-[Модуль 03](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/README.md)  ![in process](https://github.com/Data-Learn/sql-101/blob/main/images/in_progress.png)
+[**Модуль 02**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/README.md)  ![completed](https://github.com/Data-Learn/SQL-for-beginners/blob/main/images/completed.png)
 
-[Структура репозитория](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Структура-репозитория)
+[**Модуль 03**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/README.md)  ![completed](https://github.com/Data-Learn/SQL-for-beginners/blob/main/images/completed.png)
 
-[Как зарегистрироваться на курс](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Как-зарегистрироваться-на-курс)
+[**Структура репозитория**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Структура-репозитория)
+
+[**Как зарегистрироваться на курс**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Как-зарегистрироваться-на-курс)
 
 
 ## Введение

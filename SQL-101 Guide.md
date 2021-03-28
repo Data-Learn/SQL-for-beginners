@@ -4,7 +4,8 @@
 ## Вступление
 
 **Заполните, пожалуйста, анкету перед началом курса👐, для всей команды DataLearn важно понимать 🧑‍🎓какая аудитория👩‍🎓 у данного курса**
-[**Ссылка на анкету, нажмите здесь**](https://docs.google.com/forms/d/e/1FAIpQLSfN4wr9ERsDwfi3_6Tg0FQE0IMk2dKIzZzAWLPABvOyZpszxg/viewform?usp=sf_link)
+
+**Ссылка на анкету,** [**нажмите здесь**](https://docs.google.com/forms/d/e/1FAIpQLSfN4wr9ERsDwfi3_6Tg0FQE0IMk2dKIzZzAWLPABvOyZpszxg/viewform?usp=sf_link)
 
 [**Введение**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Введение)
 

@@ -15,9 +15,9 @@
 
 [**Модуль 01**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/README.md)  ![completed](https://github.com/Data-Learn/SQL-for-beginners/blob/main/images/completed.png)
 
-[**Модуль 02**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/README.md)  ![completed](https://github.com/Data-Learn/SQL-for-beginners/blob/main/images/completed.png)
+[**Модуль 02**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/README.md)  ![completed](https://github.com/Data-Learn/SQL-for-beginners/blob/main/images/completed.png)
 
-[**Модуль 03**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/README.md)  ![completed](https://github.com/Data-Learn/SQL-for-beginners/blob/main/images/completed.png)
+[**Модуль 03**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/README.md)  ![completed](https://github.com/Data-Learn/SQL-for-beginners/blob/main/images/completed.png)
 
 [**Структура репозитория**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Структура-репозитория)
 
